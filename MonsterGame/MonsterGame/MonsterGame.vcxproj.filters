@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameConst.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameUtils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\IceMan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\Wolf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\Ninjia.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\Dragon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon\Sword.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon\Arrow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon\Bomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon\Weapon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\Soldier.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon\WeaponAux.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\SoldierManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier\Lion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="City\CityManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="City\City.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="City\HeadQuarter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameUtils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameConfig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\IceMan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\Wolf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\Ninjia.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\Dragon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon\Sword.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon\Arrow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon\Bomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon\Weapon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\Soldier.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon\WeaponAux.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\SoldierManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier\Lion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="City\CityManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="City\City.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="City\HeadQuarter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
